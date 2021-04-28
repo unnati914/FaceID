@@ -1,5 +1,7 @@
-Name: Sidharth Anand
-Institution: SIRT
-Image: sidanand67.jpg
-Github: sidanand67
-Quote: Live on the Edge!
+---
+name: Sidharth Anand
+institution: SIRT
+image: sidanand67.jpg
+github: sidanand67
+quote: Live on the Edge!
+---
